@@ -1,5 +1,5 @@
-#print("this file was made in RStudio")
-#print("now it lives in GitHub")
+print("this file was made in RStudio")
+print("now it lives in GitHub")
 # x<-1
 # print(x)
 # x
